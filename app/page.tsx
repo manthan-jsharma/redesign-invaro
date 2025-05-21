@@ -23,7 +23,7 @@ export default function Home() {
 
           {/* Center Nav Items – sharp white border, black bg */}
           <div className="relative flex items-center justify-center">
-            <div className="border border-white/30 bg-black px-6 py-3 flex gap-10 rounded-none">
+            <div className="border-2 border-white bg-black px-4 py-3 flex gap-10 rounded-none">
               {[
                 {
                   label: "Pricing",
